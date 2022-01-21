@@ -7,4 +7,4 @@ function calcTips(arr) {
   return sum;
 }
 
-console.log(calcTips(tips));
+console.log(calcTips(tips)); 
